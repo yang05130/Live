@@ -39,8 +39,6 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" group-title="央视", 中国教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="CETV4" tvg-name="中国教育4台" group-title="央视", 职教频道
-http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8?
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" group-title="央视", 中国环球
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" group-title="央视", 环球纪实
@@ -135,10 +133,6 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/ind
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" group-title="卫视",新疆卫视
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" group-title="卫视",陕西卫视
-http://111.20.33.70/TVOD/88888893/224/3221226389/index.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" group-title="卫视",兵团卫视
-http://111.59.189.40:8445/tsfile/live/0115_1.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" group-title="数字", 动作电影 
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" group-title="数字", 家庭影院
