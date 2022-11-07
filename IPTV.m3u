@@ -39,9 +39,9 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" group-title="央视", 中国教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" group-title="央视", 中国环球
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" group-title="央视", CGTN中文
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" group-title="央视", 环球纪实
+#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" group-title="央视", CGTN纪实
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" group-title="卫视", 北京卫视 
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
