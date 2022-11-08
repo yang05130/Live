@@ -219,8 +219,8 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227234/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227194/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="海南少儿" tvg- name="海南少儿" group-title="卫视",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-id="海南公共" tvg- name="海南公共" group-title="卫视",海南公共
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="福建电视剧" tvg- name="福建电视剧" group-title="卫视",福建视剧
+http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227079/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="海南文旅" tvg- name="海南文旅" group-title="卫视",海南文旅
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="福建旅游" tvg- name="福建旅游" group-title="卫视",福建旅游
