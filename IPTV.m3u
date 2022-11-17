@@ -39,7 +39,7 @@ http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 http://[2409:8087:1020:301:2026::2b]:80/wh7f454c46tw4202609999_-893197627/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225969/10000100000000060000000000890997_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV4AME" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" group-title="央视",中文美洲
 http://[2409:8087:1020:301:2026::18]:80/wh7f454c46tw4202898867_317667261/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225970/10000100000000060000000000890996_0.smil/01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN中文
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN英语
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" group-title="央视",CGTN纪实
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
@@ -101,7 +101,7 @@ http://live.cooltv.top/tv/btime.php?id=btvsh
 http://live.cooltv.top/tv/btime.php?id=btvqn
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV纪实科教" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",纪实科教
 http://live.cooltv.top/tv/btime.php?id=btvkj
-#EXTINF:-1 tvg-id="1872" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方",体育休闲
+#EXTINF:-1 tvg-id="1872" tvg-name="体育休闲" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",体育休闲
 http://live.cooltv.top/tv/btime.php?id=bjjs
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视 
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225585/index.m3u8?fmt=ts2hls
