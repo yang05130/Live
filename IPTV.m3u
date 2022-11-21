@@ -34,7 +34,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212281
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225909/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K  
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
 #EXTINF:-1 tvg-name="CCTV4EUO" tvg-logo="https://live.fanmingming.com/tv/CCTV4EUO.png" group-title="央视",中文欧洲
 http://[2409:8087:1020:301:2026::2b]:80/wh7f454c46tw4202609999_-893197627/gslbserv.iptv.nm.chinamobile.com/PLTV/88888890/224/3221225969/10000100000000060000000000890997_0.smil/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV4AME" tvg-logo="https://live.fanmingming.com/tv/CCTV4AME.png" group-title="央视",中文美洲
@@ -299,3 +299,5 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226202/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225712/index.m3u8
 #EXTINF:-1 tvg-id="欢乐剧场" tvg-name="NEWTV欢乐剧场" tvg-logo="" group-title="数字",欢乐剧场
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226210/index.m3u8
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="" group-title="数字",欢笑剧场
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
