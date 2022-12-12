@@ -13,8 +13,6 @@ http://ls.qingting.fm/live/339.m3u8
 http://ls.qingting.fm/live/345.m3u8
 #EXTINF:-1,北京故事广播
 http://ls.qingting.fm/live/337.m3u8
-#EXTINF:-1,北京体育广播
-http://ls.qingting.fm/live/335.m3u8
 #EXTINF:-1,北京外语广播
 http://ls.qingting.fm/live/334.m3u8
 #EXTINF:-1,北京青年广播
@@ -85,6 +83,8 @@ https://crystalout.surfernetwork.com:8001/KVSP_MP3
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,Capital FM
 http://22893.live.streamtheworld.com:3690/CAPITAL958FMAAC.aac
+#EXTINF:-1,CNA938
+https://14033.live.streamtheworld.com/938NOW_PREM.aac
 #EXTINF:-1,NPR News
 http://npr-ice.streamguys1.com/live.mp3
 #EXTINF:-1,Al Jazeera
