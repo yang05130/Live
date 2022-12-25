@@ -35,6 +35,7 @@ CETV-04，http://[2409:8087:5011:1020::15]/180000001001/000000010000000010170000
 环球新闻，http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 环球纪实，http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
 CNA新闻，http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+NHK世界，https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 半岛新闻，http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 北京卫视，http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
 北京文艺，http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
@@ -108,3 +109,4 @@ CNA新闻，http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebb
 芒果欧美，http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
 卡酷少儿，http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215608/main.m3u8?IASHttpSessionId=OTT
 动漫秀场，http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227071/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+南国都市，http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
