@@ -61,6 +61,9 @@ https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/80/Cinemax_Asia_2017.png/revision/latest/scale-to-width-down/210?cb=20220416140520&path-prefix=vi" group-title="国际",CINEMAX
 http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" group-title="HBO" tvg-logo="https://p.kindpng.com/picc/s/153-1531080_hbo-signature-hbo-signature-logo-hd-png-download.png",group-title="国际", HBO原创
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg" group-title="HBO" tvg-logo="https://www.kindpng.com/picc/m/34-340496_hbo-hits-hd-png-download.png",group-title="国际", HBO强档
+#EXTINF:-1 group-title="Khám phá" tvg-id="discoveryasiahd" tvg-logo="https://i.ibb.co/1v8Vtpf/discovery-asia.png", group-title="国际",发现频道
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="数字",第一财经
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTVPAYFEE8.jpg" group-title="数字",兵器科技
@@ -201,8 +204,6 @@ http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227190/index.m3u
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227188/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="数字",福建视剧
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227079/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/dongnan.png" group-title="数字",福建经济
-http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227184/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="数字",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 #EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="数字",海南文旅
