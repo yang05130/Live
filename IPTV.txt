@@ -112,9 +112,3 @@ CNA新闻，http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebb
 凤凰资讯，http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 环球新闻，http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 环球纪实，http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT 
-HBO高清，https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8 
-HBO家庭，http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8 
-HBO强档，http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
-HBO原创，http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
-CINEMAX，http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8 
-发现频道，http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
