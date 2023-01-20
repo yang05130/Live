@@ -11,12 +11,6 @@ http://ls.qingting.fm/live/332.m3u8
 http://ls.qingting.fm/live/339.m3u8
 #EXTINF:-1,北京城市广播
 http://ls.qingting.fm/live/345.m3u8
-#EXTINF:-1,北京故事广播
-http://ls.qingting.fm/live/337.m3u8
-#EXTINF:-1,北京外语广播
-http://ls.qingting.fm/live/334.m3u8
-#EXTINF:-1,北京青年广播
-http://ls.qingting.fm/live/347.m3u8
 #EXTINF:-1,CNR交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1,CNR中国之声
@@ -158,4 +152,4 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_6music
 #EXTINF:-1,News Radio UK
 http://playoutonestreaming.com:8008/stream 
 #EXTINF:-1,MSNBC Radio
-http://peridot.streamguys.com:7850/live 
+http://peridot.streamguys.com:7850/live
