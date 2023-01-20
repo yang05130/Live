@@ -110,7 +110,7 @@ http://22253.live.streamtheworld.com:3690/ONE_FM_913.mp3
 #EXTINF:-1,Gold FM
 http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
 #EXTINF:-1,Hao FM
-http://23683.live.streamtheworld.com:3690/HAO_963_SC
+http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
 #EXTINF:-1,Kiss FM
 http://22253.live.streamtheworld.com:3690/KISS_92.mp3
 #EXTINF:-1,Class FM
