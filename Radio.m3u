@@ -124,7 +124,7 @@ http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,Capital FM
 http://22893.live.streamtheworld.com:3690/CAPITAL958FMAAC.aac
 #EXTINF:-1,CNA938
-https://14033.live.streamtheworld.com/938NOW_PREM.aac
+http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac
 #EXTINF:-1,NPR News
 http://npr-ice.streamguys1.com/live.mp3
 #EXTINF:-1,Al Jazeera
