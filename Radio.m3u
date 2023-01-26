@@ -37,6 +37,12 @@ http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
 http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 #EXTINF:-1,CNR阅读之声
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1,CNR老年之声
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1,CNR台海之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1,CNR香港之声
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 #EXTINF:-1,CRI轻松调频 
 http://sk.cri.cn/915.m3u8
 #EXTINF:-1,CRI环球资讯 
@@ -83,6 +89,8 @@ http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
 http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
 #EXTINF:-1,经典FM
 http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1,华艺广播
+http://47.107.255.25:1935/live/chbc/800k/tzwj_video.m3u8
 #EXTINF:-1,有声文摘
 http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
 #EXTINF:-1,安全百科
