@@ -19,6 +19,11 @@ CCTV-5+，http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/322122570
 中国教育，http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225917/index.m3u8?fmt=ts2hls
 职教频道，http://[2409:8087:5011:1020::15]/180000001001/00000001000000001017000000440665/index.m3u8
 北京卫视，http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225674/index.m3u8
+北京新闻，http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8 
+北京文艺，http://111.62.156.88/pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8 
+北京影视，http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8 
+北京财经，http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8 
+北京生活，http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
 体育休闲，http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com 
 纪实科教，http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225675/2/index.m3u8
 东方卫视，http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225659/index.m3u8
