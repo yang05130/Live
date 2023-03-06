@@ -83,18 +83,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225702/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225492/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西少儿
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226194/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-logo="http://iptv.cooltv.top/logo/jx2.png" group-title="卫视",江西都市
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225584/2/index.m3u8
-#EXTINF:-1 tvg-logo="http://iptv.cooltv.top/logo/jx3.png" group-title="卫视",江西经生
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225580/2/index.m3u8
-#EXTINF:-1 tvg-logo="http://iptv.cooltv.top/logo/jx4.png" group-title="卫视",江西影旅
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225579/2/index.m3u8
-#EXTINF:-1 tvg-logo="http://iptv.cooltv.top/logo/jx5.png" group-title="卫视",江西公农
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225578/2/index.m3u8
-#EXTINF:-1 tvg-logo="http://iptv.cooltv.top/logo/jx6.png" group-title="卫视",江西少儿
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225577/2/index.m3u8
-#EXTINF:-1 tvg-logo="http://iptv.cooltv.top/logo/jx7.png" group-title="卫视",江西新闻
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225576/2/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225610/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
