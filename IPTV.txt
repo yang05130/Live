@@ -73,9 +73,9 @@ CCTV-5+，http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/322122570
 茶友频道，http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225781/index.m3u8?fmt=ts2hls
 快乐垂钓，http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 纯享超清，http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8 
-央超高清，http://[240e:f7:c000:311:20::]/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 乐游频道，http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 纪实人文，http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
+电视指南，http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 兵器科技，http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 怀旧剧场，http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 世界地理，http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
