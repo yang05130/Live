@@ -179,18 +179,14 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-id="6568" tvg-name="CCTV央视高尔夫网球" tvg-logo="https://epg.112114.xyz/logo/高尔夫网球.png" group-title="数字",央视高网
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="数字",电视指南
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字",动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="数字",家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="数字",高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="芒果华语" tvg-name="芒果华语" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="数字",芒果华语
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226708/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="芒果欧美" tvg-name="芒果欧美" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="数字",芒果欧美
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="芒果独播" tvg-name="芒果独播" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="数字",芒果独播
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226692/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="" group-title="数字",求索动物
 http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 #EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="" group-title="数字",求索生活
